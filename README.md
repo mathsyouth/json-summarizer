@@ -3,7 +3,7 @@ json-summarizer
 
 Summarizes JSON file contents (or native Python data structures)
 
-Pretty easy to run in Python 2.X (tested on Python 2.7):
+Pretty easy to run in Python 3.7+ (tested on Python 3.7.6):
 
     python summarize_json.py <JSON file>
 
